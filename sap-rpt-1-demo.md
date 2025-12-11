@@ -185,8 +185,7 @@ There is confidence NULL which does not give us any confidence fro the data prov
     ]
   }
 
-## Request BODY Parquet file
-TODO
+
   "data_schema": {
       "PRODUCT": {
           "dtype": "string"
@@ -194,3 +193,5 @@ TODO
   }
 }
 ```
+## Request BODY Parquet file
+TODO
